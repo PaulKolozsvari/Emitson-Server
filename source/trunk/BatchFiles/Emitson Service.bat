@@ -1,0 +1,1 @@
+Emitson.Service.exe /logmax

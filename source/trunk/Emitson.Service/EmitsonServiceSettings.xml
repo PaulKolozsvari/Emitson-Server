@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmitsonServiceSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>EmitsonServiceSettings</Name>
+  <ShowMessageBoxOnException>false</ShowMessageBoxOnException>
+  <LogToFile>false</LogToFile>
+  <LogToWindowsEventLog>true</LogToWindowsEventLog>
+  <LogToConsole>true</LogToConsole>
+  <LogFileName>Emitson.Service.Log.txt</LogFileName>
+  <EventSourceName>EmitsonService.Source</EventSourceName>
+  <EventLogName>Emitson.Service.Log</EventLogName>
+  <LoggingLevel>Normal</LoggingLevel>
+  <RootUriContent>Emitson Service</RootUriContent>
+  <HostAddressSuffix>Emitson</HostAddressSuffix>
+  <PortNumber>2985</PortNumber>
+  <UseAuthentication>false</UseAuthentication>
+  <IncludeExceptionDetailInResponse>false</IncludeExceptionDetailInResponse>
+  <TextResponseEncoding>UTF8</TextResponseEncoding>
+  <IncludeOrmTypeNamesInJsonResponse>false</IncludeOrmTypeNamesInJsonResponse>
+  <MaxBufferPoolSize>2147483647</MaxBufferPoolSize>
+  <MaxBufferSize>2147483647</MaxBufferSize>
+  <MaxReceivedMessageSize>2147483647</MaxReceivedMessageSize>
+</EmitsonServiceSettings>

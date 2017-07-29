@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAmpSDK", "WinAmpSDK.csproj", "{70E44987-DBB8-4455-87E0-33CD6F6C55DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProg", "..\TestProg\TestProg.csproj", "{EB30D4EB-B85A-4353-BCB6-9E47BEF1B140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E44987-DBB8-4455-87E0-33CD6F6C55DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E44987-DBB8-4455-87E0-33CD6F6C55DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E44987-DBB8-4455-87E0-33CD6F6C55DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E44987-DBB8-4455-87E0-33CD6F6C55DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB30D4EB-B85A-4353-BCB6-9E47BEF1B140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB30D4EB-B85A-4353-BCB6-9E47BEF1B140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB30D4EB-B85A-4353-BCB6-9E47BEF1B140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB30D4EB-B85A-4353-BCB6-9E47BEF1B140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
